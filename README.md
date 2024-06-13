@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💜
 
-<!--
-**milenilinda018/milenilinda018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mileni e me acho linda
+ 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha Você pode entrar em contato comigo 📫 e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001108745842sp@al.educacao.sp.gov.br
+
+  @mileni_franco
+  
+  ![](https://media1.tenor.com/m/NjZL-9K4CJgAAAAC/kevin-bueno-kevin.gif)
+  
